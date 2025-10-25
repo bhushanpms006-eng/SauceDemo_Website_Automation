@@ -1,0 +1,31 @@
+Website Under Test
+URL: hhtps://www.saucedemo.com
+Objective
+---------
+Automate key user scenarios using Selenium WebDriver with Python to validate functionality and UI behaviour.
+
+Scenarios to Automate
+1 Login Functionality
+    Valid Login: Use standard user credentials.
+2 Product Page Validation
+    Verify product list loads correctly.
+    validate sorting functionality (e.g. price low to high)
+    Check product details page navigation.
+3 Add to Cart
+    Add multiple items to cart.
+    Validate cart count and contents.
+4 Checkout Process
+    Fill in user information.
+    Validate price summary.
+    Complete purchase and verify confirmation.
+5 Logout Functionality
+    Ensure user can log out and is redirected to login page.
+
+Tech Stack
+----------
+Language: Pyton
+Framework: Selenium webdriver (Py-test)
+Build Tool: Pycharm
+Test Framework:
+Design Pattern: Page Object Model(POM)
+
