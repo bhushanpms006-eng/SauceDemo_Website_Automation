@@ -1,0 +1,18 @@
+2025-10-29 16:28:47 - INFO - LoginPage - Attempting login with user: standard_user
+2025-10-29 16:28:48 - INFO - LoginPage - Entered credentials, clicking Login button.
+2025-10-29 16:28:48 - INFO - LoginPage - Login successful and inventory page loaded.
+2025-10-29 16:28:54 - INFO - LoginPage - Attempting login with user: locked_out_user
+2025-10-29 16:28:54 - INFO - LoginPage - Entered credentials, clicking Login button.
+2025-10-29 16:28:54 - INFO - LoginPage - Login successful and inventory page loaded.
+2025-10-29 16:29:00 - INFO - LoginPage - Attempting login with user: problem_user
+2025-10-29 16:29:00 - INFO - LoginPage - Entered credentials, clicking Login button.
+2025-10-29 16:29:00 - INFO - LoginPage - Login successful and inventory page loaded.
+2025-10-29 16:29:06 - INFO - LoginPage - Attempting login with user: performance_glitch_user
+2025-10-29 16:29:06 - INFO - LoginPage - Entered credentials, clicking Login button.
+2025-10-29 16:29:11 - INFO - LoginPage - Login successful and inventory page loaded.
+2025-10-29 16:29:17 - INFO - LoginPage - Attempting login with user: error_user
+2025-10-29 16:29:17 - INFO - LoginPage - Entered credentials, clicking Login button.
+2025-10-29 16:29:17 - INFO - LoginPage - Login successful and inventory page loaded.
+2025-10-29 16:29:23 - INFO - LoginPage - Attempting login with user: visual_user
+2025-10-29 16:29:23 - INFO - LoginPage - Entered credentials, clicking Login button.
+2025-10-29 16:29:23 - INFO - LoginPage - Login successful and inventory page loaded.

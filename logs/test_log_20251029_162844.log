@@ -1,0 +1,36 @@
+2025-10-29 16:28:44 - INFO - conftest - Setting up WebDriver for browser: chrome
+2025-10-29 16:28:47 - INFO - conftest - Navigated to base URL: https://www.saucedemo.com/
+2025-10-29 16:28:47 - INFO - tests.test_login_multi_users - === Start test_login_multiple_users for user: standard_user ===
+2025-10-29 16:28:47 - INFO - tests.test_login_multi_users - Attempting login with username=standard_user
+2025-10-29 16:28:48 - INFO - conftest - Closing browser session...
+2025-10-29 16:28:51 - INFO - conftest - Browser closed successfully.
+2025-10-29 16:28:51 - INFO - conftest - Setting up WebDriver for browser: chrome
+2025-10-29 16:28:54 - INFO - conftest - Navigated to base URL: https://www.saucedemo.com/
+2025-10-29 16:28:54 - INFO - tests.test_login_multi_users - === Start test_login_multiple_users for user: locked_out_user ===
+2025-10-29 16:28:54 - INFO - tests.test_login_multi_users - Attempting login with username=locked_out_user
+2025-10-29 16:28:54 - INFO - conftest - Closing browser session...
+2025-10-29 16:28:57 - INFO - conftest - Browser closed successfully.
+2025-10-29 16:28:57 - INFO - conftest - Setting up WebDriver for browser: chrome
+2025-10-29 16:28:59 - INFO - conftest - Navigated to base URL: https://www.saucedemo.com/
+2025-10-29 16:28:59 - INFO - tests.test_login_multi_users - === Start test_login_multiple_users for user: problem_user ===
+2025-10-29 16:29:00 - INFO - tests.test_login_multi_users - Attempting login with username=problem_user
+2025-10-29 16:29:00 - INFO - conftest - Closing browser session...
+2025-10-29 16:29:03 - INFO - conftest - Browser closed successfully.
+2025-10-29 16:29:03 - INFO - conftest - Setting up WebDriver for browser: chrome
+2025-10-29 16:29:06 - INFO - conftest - Navigated to base URL: https://www.saucedemo.com/
+2025-10-29 16:29:06 - INFO - tests.test_login_multi_users - === Start test_login_multiple_users for user: performance_glitch_user ===
+2025-10-29 16:29:06 - INFO - tests.test_login_multi_users - Attempting login with username=performance_glitch_user
+2025-10-29 16:29:11 - INFO - conftest - Closing browser session...
+2025-10-29 16:29:14 - INFO - conftest - Browser closed successfully.
+2025-10-29 16:29:14 - INFO - conftest - Setting up WebDriver for browser: chrome
+2025-10-29 16:29:17 - INFO - conftest - Navigated to base URL: https://www.saucedemo.com/
+2025-10-29 16:29:17 - INFO - tests.test_login_multi_users - === Start test_login_multiple_users for user: error_user ===
+2025-10-29 16:29:17 - INFO - tests.test_login_multi_users - Attempting login with username=error_user
+2025-10-29 16:29:17 - INFO - conftest - Closing browser session...
+2025-10-29 16:29:20 - INFO - conftest - Browser closed successfully.
+2025-10-29 16:29:20 - INFO - conftest - Setting up WebDriver for browser: chrome
+2025-10-29 16:29:23 - INFO - conftest - Navigated to base URL: https://www.saucedemo.com/
+2025-10-29 16:29:23 - INFO - tests.test_login_multi_users - === Start test_login_multiple_users for user: visual_user ===
+2025-10-29 16:29:23 - INFO - tests.test_login_multi_users - Attempting login with username=visual_user
+2025-10-29 16:29:40 - INFO - conftest - Closing browser session...
+2025-10-29 16:29:42 - INFO - conftest - Browser closed successfully.

@@ -1,0 +1,54 @@
+2025-10-29 16:34:31 - INFO - tests.test_login_multi_users - === Start test_login_multiple_users for user: standard_user ===
+2025-10-29 16:34:31 - INFO - tests.test_login_multi_users - Attempting login with username=standard_user
+2025-10-29 16:34:31 - INFO - pages.login_page - Attempting login with user: standard_user
+2025-10-29 16:34:32 - INFO - pages.login_page - Entered credentials, clicking Login button.
+2025-10-29 16:34:32 - INFO - pages.login_page - Login successful and inventory page loaded.
+2025-10-29 16:34:35 - INFO - pages.login_page - No error message displayed after login attempt.
+2025-10-29 16:34:35 - INFO - tests.test_login_multi_users -  User 'standard_user' logged in successfully.
+2025-10-29 16:34:35 - INFO - tests.test_login_multi_users - === End test_login_multiple_users for user: standard_user ===
+
+2025-10-29 16:34:40 - INFO - tests.test_login_multi_users - === Start test_login_multiple_users for user: locked_out_user ===
+2025-10-29 16:34:40 - INFO - tests.test_login_multi_users - Attempting login with username=locked_out_user
+2025-10-29 16:34:40 - INFO - pages.login_page - Attempting login with user: locked_out_user
+2025-10-29 16:34:41 - INFO - pages.login_page - Entered credentials, clicking Login button.
+2025-10-29 16:34:46 - WARNING - pages.login_page - Login failed, error displayed: Epic sadface: Sorry, this user has been locked out.
+2025-10-29 16:34:46 - INFO - pages.login_page - Captured login error message: Epic sadface: Sorry, this user has been locked out.
+2025-10-29 16:34:46 - WARNING - tests.test_login_multi_users -  User 'locked_out_user' failed to login. Error message: Epic sadface: Sorry, this user has been locked out.
+2025-10-29 16:34:46 - INFO - tests.test_login_multi_users - === End test_login_multiple_users for user: locked_out_user ===
+
+2025-10-29 16:34:51 - INFO - tests.test_login_multi_users - === Start test_login_multiple_users for user: problem_user ===
+2025-10-29 16:34:52 - INFO - tests.test_login_multi_users - Attempting login with username=problem_user
+2025-10-29 16:34:52 - INFO - pages.login_page - Attempting login with user: problem_user
+2025-10-29 16:34:52 - INFO - pages.login_page - Entered credentials, clicking Login button.
+2025-10-29 16:34:52 - INFO - pages.login_page - Login successful and inventory page loaded.
+2025-10-29 16:34:55 - INFO - pages.login_page - No error message displayed after login attempt.
+2025-10-29 16:34:55 - INFO - tests.test_login_multi_users -  User 'problem_user' logged in successfully.
+2025-10-29 16:34:55 - INFO - tests.test_login_multi_users - === End test_login_multiple_users for user: problem_user ===
+
+2025-10-29 16:35:00 - INFO - tests.test_login_multi_users - === Start test_login_multiple_users for user: performance_glitch_user ===
+2025-10-29 16:35:00 - INFO - tests.test_login_multi_users - Attempting login with username=performance_glitch_user
+2025-10-29 16:35:00 - INFO - pages.login_page - Attempting login with user: performance_glitch_user
+2025-10-29 16:35:06 - INFO - pages.login_page - Entered credentials, clicking Login button.
+2025-10-29 16:35:06 - INFO - pages.login_page - Login successful and inventory page loaded.
+2025-10-29 16:35:09 - INFO - pages.login_page - No error message displayed after login attempt.
+2025-10-29 16:35:09 - INFO - tests.test_login_multi_users -  User 'performance_glitch_user' logged in successfully.
+2025-10-29 16:35:09 - INFO - tests.test_login_multi_users - === End test_login_multiple_users for user: performance_glitch_user ===
+
+2025-10-29 16:35:14 - INFO - tests.test_login_multi_users - === Start test_login_multiple_users for user: error_user ===
+2025-10-29 16:35:15 - INFO - tests.test_login_multi_users - Attempting login with username=error_user
+2025-10-29 16:35:15 - INFO - pages.login_page - Attempting login with user: error_user
+2025-10-29 16:35:15 - INFO - pages.login_page - Entered credentials, clicking Login button.
+2025-10-29 16:35:15 - INFO - pages.login_page - Login successful and inventory page loaded.
+2025-10-29 16:35:19 - INFO - pages.login_page - No error message displayed after login attempt.
+2025-10-29 16:35:19 - INFO - tests.test_login_multi_users -  User 'error_user' logged in successfully.
+2025-10-29 16:35:19 - INFO - tests.test_login_multi_users - === End test_login_multiple_users for user: error_user ===
+
+2025-10-29 16:35:24 - INFO - tests.test_login_multi_users - === Start test_login_multiple_users for user: visual_user ===
+2025-10-29 16:35:24 - INFO - tests.test_login_multi_users - Attempting login with username=visual_user
+2025-10-29 16:35:24 - INFO - pages.login_page - Attempting login with user: visual_user
+2025-10-29 16:35:24 - INFO - pages.login_page - Entered credentials, clicking Login button.
+2025-10-29 16:35:24 - INFO - pages.login_page - Login successful and inventory page loaded.
+2025-10-29 16:35:28 - INFO - pages.login_page - No error message displayed after login attempt.
+2025-10-29 16:35:28 - INFO - tests.test_login_multi_users -  User 'visual_user' logged in successfully.
+2025-10-29 16:35:28 - INFO - tests.test_login_multi_users - === End test_login_multiple_users for user: visual_user ===
+
